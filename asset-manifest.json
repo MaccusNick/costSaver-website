@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/costSaver-website/static/css/main.aad03c95.css",
+    "main.js": "/costSaver-website/static/js/main.b5b54e1e.js",
+    "static/js/529.7b7e4ccf.chunk.js": "/costSaver-website/static/js/529.7b7e4ccf.chunk.js",
+    "index.html": "/costSaver-website/index.html",
+    "main.aad03c95.css.map": "/costSaver-website/static/css/main.aad03c95.css.map",
+    "main.b5b54e1e.js.map": "/costSaver-website/static/js/main.b5b54e1e.js.map",
+    "529.7b7e4ccf.chunk.js.map": "/costSaver-website/static/js/529.7b7e4ccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad03c95.css",
+    "static/js/main.b5b54e1e.js"
+  ]
+}
